@@ -1,5 +1,5 @@
 title: Life of Mechon
-subtitle: Inspires by Mechons
+subtitle: Inspired by Mechons
 description: >- # this means to ignore newlines until "baseurl:"
   To learn the way the Mechon behaves
 
@@ -26,7 +26,7 @@ urls:
 
 author_logo: profile.png
 author: Amruthan 
-author_bio: Hi, my name is Amruthan. I designed this website for Mechanical Engineers
+author_bio: Hey! My Name is Amruthan. I created this website to make articles for Mechanical Engineers. Click on the blog to explore more Articles.
 author_email: "amruthan@lifeofmechon.xyz"
 author_location: India
 author_website_url: "https://lifeofmechon.xyz"
@@ -38,13 +38,13 @@ author_work_experiences:
               company_url: https://google.com
               designation: Software Engineer
               description: Worked on various Google Products
-              visibility: true
+              visibility: false
             - company_name: Microsoft
               company_logo: microsoft.png
               company_url: https://microsoft.com
               designation: Azure Developer
               description: Worked on various Azure Cloud Products
-              visibility: true
+              visibility: false
 
 author_education_details:
               - college_logo: mit.png
@@ -68,11 +68,11 @@ author_project_details:
 
 # social links
 twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
+github_username:  amruthan2000
+facebook_username: Amruthan Venkatesh
+linkedin_username: Amruthan C S
 behance_username: johndoe
-instagram_username: johndoe
+instagram_username: Amruthan_Venkatesh
 medium_username: johndoe
 telegram_username: johndoe
 dribbble_username: johndoe
@@ -101,9 +101,9 @@ permalink: pretty
 google_analytics: UA-46783401-10
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
-show_author_education_details: true
-show_author_project_details: true
+show_author_work_experiences: false
+show_author_education_details: false
+show_author_project_details: false
 
 # algolia search
 algolia:
