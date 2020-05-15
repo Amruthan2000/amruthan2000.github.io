@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   To learn the way the Mechon behaves
 
 url: "amruthan2000.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
     - text: About Me
@@ -98,13 +98,13 @@ show_author_work_experiences: false
 show_author_education_details: false
 show_author_project_details: false
 
-# algolia search
-#algolia:
- # application_id: D9WA1YKTRQ
-  #index_name: blog_posts # You can replace that with whatever name you want
-  #files_to_exclude: []
-  #nodes_to_index: 'article'
-  #search_only_api_key: 58ffdd7cd6c45ec1577a7fcd789b1b9a
+ algolia search
+algolia:
+  application_id: D9WA1YKTRQ
+  index_name: blog_posts # You can replace that with whatever name you want
+  files_to_exclude: []
+  nodes_to_index: 'article'
+  search_only_api_key: 58ffdd7cd6c45ec1577a7fcd789b1b9a
 
 # pagination of posts
 paginate: 10
@@ -119,13 +119,13 @@ paginate_path: "/blog/page/:num/"
 #   ignore:
 #     envs: ['development']
 
-# Archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#   layout: archive
-#   permalinks:
-#     category: '/category/:name/'
+ Archives
+ jekyll-archives:
+   enabled:
+     - categories
+   layout: archive
+   permalinks:
+     category: '/category/:name/'
 
 # Shop
 collections:
