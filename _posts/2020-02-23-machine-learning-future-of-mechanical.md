@@ -3,13 +3,10 @@ title: Machine Learning - The Future of Mechanical Engineering
 layout: post
 date: '2020-02-23T05:25:00.001-08:00'
 author: Life of Mechon
-tags:
+Categories:
 - Machine Learning
-- News
 modified_time: '2020-05-01T01:29:16.210-07:00'
-thumbnail: Machine Learning.png
-blogger_id: tag:blogger.com,1999:blog-7033432594727069884.post-2443029219846501179
-blogger_orig_url: https://www.lifeofmechon.xyz/2020/02/machine-learning-future-of-mechanical.html
+thumbnail: code.png
 ---
 
 **Machine Learning** is an important part of computer science and 
