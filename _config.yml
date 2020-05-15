@@ -10,17 +10,11 @@ urls:
     - text: About Me
       url: /about
     - text: Blog
+      url: https://blog.lifeofmechon.xyz
+    - text: Articles
       url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
     - text: Contact Me
       url : /contact
-    - text: Styleguide
-      url: /styleguide
-    - text: Get Started
-      url: /get-started
 
 # Edit these details
 
@@ -84,13 +78,12 @@ instagram_username: Amruthan_Venkatesh
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: Amruthan Chandrasekeran
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
-
+mailchimp_form_url: https://http://eepurl.com/g3CCaz
 # formspree (contact form)
-formspree_email: amruthan@lifeofmechon.xyz
+formspree_email: xdowkrbb
 
 # syntax highlighter
 markdown: kramdown
@@ -114,8 +107,8 @@ algolia:
   search_only_api_key: 58ffdd7cd6c45ec1577a7fcd789b1b9a
 
 # pagination of posts
-paginate: 4
-per_page: 4
+paginate: 10
+per_page: 10
 paginate_path: "/blog/page/:num/"
 
 # minify
