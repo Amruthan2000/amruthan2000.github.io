@@ -6,9 +6,7 @@ author: Life of Mechon
 tags:
 - Coding
 modified_time: '2019-08-17T06:00:42.454-07:00'
-thumbnail: https://1.bp.blogspot.com/-lJmeONJ-usA/XQpdfAV004I/AAAAAAAABT8/bgt37BPmujIjNOPG4qvz2JNZ2BVj8CmiACLcBGAs/s72-c/photo-1517148815978-75f6acaaf32c.jpeg
-blogger_id: tag:blogger.com,1999:blog-7033432594727069884.post-6511696771183311587
-blogger_orig_url: https://www.lifeofmechon.xyz/2019/08/programming-languages-for-mechanical.html
+thumbnail: code.png
 ---
 
 <div dir="ltr" style="text-align: left;" trbidi="on"><div class="separator" 
