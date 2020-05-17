@@ -2,6 +2,17 @@
 layout: default
 ---
 
+
+<!-- Blog Post Breadcrumbs Add the following to the layouts where you want to show breadcrumb posts-->
+{%- include blog_post_breadcrumb.html -%}
+
+<div class="row" id="blog-post-container">
+
+     <div class="col-lg-8 offset-md-1">
+
+           {%- include blog_post_article.html -%}
+      </div>
+    </div>
 <div class="row" id="blog-post-container">
   <div class="col-lg-8 offset-md-2">
     {%- include blog_post_article.html -%}
