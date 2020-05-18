@@ -5,14 +5,7 @@ layout: default
 <link href='https://raw.githubusercontent.com/Amruthan2000/amruthan2000.github.io/master/assets/img/favicon-32x32.png' rel='icon' sizes='32×32' type='image/png'/> 
 <link rel='manifest' href='https://amruthan2000.github.io/site.webmanifest'>
 
-<script>
 
-import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
-
-const el = document.createElement('pwa-update');
-document.body.appendChild(el);
-</script>
-<script>
   $(document).ready(function() {
     $("#typewriteText").typewrite({
       actions: [{ type: "{{site.typewrite-text}}" }]
