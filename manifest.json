@@ -1,8 +1,9 @@
 {
-  "name": "Life of mechon",
-  "short_name": "LOM",
-  "theme_color": "#2196f3",
-  "background_color": "#2196f3",
+  "name": "Life of mechon An Initiative of Mechanical Engineer",
+  "short_name": "Life of Mechon",
+  "theme_color": "#070707",
+  "background_color": "#070707",
+  "description": "An Initiative of Mechanical Engineer"
   "display": "standalone",
   "start_url": "/",
   "icons": [
@@ -46,6 +47,6 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "splash_pages": null
+  ]
+  
 }
