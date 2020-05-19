@@ -4,8 +4,7 @@
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "standalone",
-  "Scope": "/",
-  "start_url": "https://amruthan2000.github.io",
+  "start_url": "/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
