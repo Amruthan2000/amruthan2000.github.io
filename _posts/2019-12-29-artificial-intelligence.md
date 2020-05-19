@@ -5,7 +5,6 @@ title: Artificial Intelligence
 date: '2019-12-29T06:16:00.005-08:00'
 author: Life of Mechon
 modified_time: '2020-02-23T05:41:47.757-08:00'
-
 ---
 
 Artificial intelligence (AI) is the recreation of human intelligence 
