@@ -3,7 +3,7 @@
   "short_name": "Life of Mechon",
   "theme_color": "#070707",
   "background_color": "#070707",
-  "description": "An Initiative of Mechanical Engineer"
+  "description": "An Initiative of Mechanical Engineer",
   "display": "standalone",
   "start_url": "/",
   "icons": [
