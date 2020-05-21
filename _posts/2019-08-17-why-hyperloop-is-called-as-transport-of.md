@@ -7,9 +7,7 @@ tags:
 - Hyperloop
 - Tech
 modified_time: '2020-04-25T05:58:29.943-07:00'
-thumbnail: https://i.ytimg.com/vi/yCVHtJ6yJxo/default.jpg
-blogger_id: tag:blogger.com,1999:blog-7033432594727069884.post-1638553550009494977
-blogger_orig_url: https://www.lifeofmechon.xyz/2019/08/why-hyperloop-is-called-as-transport-of.html
+thumbnail: download.png
 ---
 
 <div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: 
