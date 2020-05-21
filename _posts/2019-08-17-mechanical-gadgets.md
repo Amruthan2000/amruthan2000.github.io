@@ -3,28 +3,7 @@ layout: post
 title: 'Mechanical Gadgets '
 date: '2019-08-17T05:57:00.001-07:00'
 author: Life of Mechon
-tags:
-- Defense
-- Robotics
-- Embedded Devices
-- Entrepreneur
-- Personal skill development
-- Machine Learning
-- Foundry
-- Buisness Administration
-- Batteries
-- Missiles
-- Thinking Ability
-- Research and Development
-- Design Knowledge
-- Locomotives
-- Satellites
-- Hyperloop
-- Mechanical
-modified_time: '2019-12-29T06:25:51.923-08:00'
-thumbnail: https://1.bp.blogspot.com/-jl2EXn-rvJM/XQkCvXXL0lI/AAAAAAAABTU/fgrr0oWmRFk4cuojAXTazq1-3PN9ESvhACLcBGAs/s72-c/images.jpeg
-blogger_id: tag:blogger.com,1999:blog-7033432594727069884.post-1547939688022334578
-blogger_orig_url: https://www.lifeofmechon.xyz/2019/08/mechanical-gadgets.html
+thumbnail: download.png
 ---
 
 <div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" 
